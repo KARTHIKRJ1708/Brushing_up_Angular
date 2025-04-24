@@ -1,6 +1,40 @@
 # AngularFirstApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
+npm install npm --global // Updates the ‘CLI’ client
+
+npm -v
+
+Create first npm project
+
+npm init -y
+
+npm install express
+
+-----------
+
+node --version
+npm --version
+
+npm install -g @angular/cli
+
+ng new angularFirstApp
+
+Cd angularFirstApp
+
+ng serve
+
+
+ng add @angular/material
+
+ng build --prod
+
+
+![image](https://github.com/user-attachments/assets/d4ee3e78-f401-41d1-a5b7-fb4dc13741cb)
+
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/fcf769d5-12f6-4575-b948-422e224782bc" />
+
+
+
 
 ## Development server
 
